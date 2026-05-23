@@ -6,3 +6,12 @@
 - ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
+
+Local time: 12.54s
+[POSITIVE 1.00] I really enjoyed working on the team and shipped 3 features.
+[NEGATIVE 1.00] I was the only one writing code; everyone else was slow.
+[POSITIVE 1.00] I learned a lot from my mentor and grew technically.
+[NEGATIVE 1.00] I had to redo most of my teammate's work because it was wron
+[POSITIVE 1.00] My internship was great — would recommend it to anyone.
+API:   min A0.8s | avg 1.2s
+Local: min 0.93s | avg 1.14s
