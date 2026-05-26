@@ -14,4 +14,14 @@ Local time: 12.54s
 [NEGATIVE 1.00] I had to redo most of my teammate's work because it was wron
 [POSITIVE 1.00] My internship was great — would recommend it to anyone.
 API:   min A0.8s | avg 1.2s
-Local: min 0.93s | avg 1.14s
+Local: min 0.93s | avg 1.14s>
+
+
+
+## Reflection
+
+Semantic search returns the nearest semantic match,
+not necessarily the correct factual answer.
+
+Embeddings group related topics together in vector space.
+PCA visualization helped show semantic clustering.
