@@ -56,3 +56,18 @@ PCA visualization helped show semantic clustering.
 1. The trace explains the reasoning process.
 2. Tool docstrings guide tool selection.
 3. Agents need explicit failure handling.
+
+## Day 9 — Capstone Sprint 4: Career Agent
+
+- Multi-tool LangGraph ReAct agent
+- 3 tools integrated:
+  - jd_fetcher
+  - skills_gap
+  - answer_scorer
+- Failure recovery tested successfully
+
+### Reflection
+
+1. Agents choose tools dynamically.
+2. Tool docstrings guide reasoning.
+3. Explicit ERROR handling prevents hallucination.
