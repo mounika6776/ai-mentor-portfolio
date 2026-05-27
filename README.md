@@ -43,3 +43,16 @@ not necessarily the correct factual answer.
 
 Embeddings group related topics together in vector space.
 PCA visualization helped show semantic clustering.
+
+
+## Day 9 Lab 9A — Hello-LangGraph
+
+- 1-tool ReAct agent with DuckDuckGo web_search
+- 4-message trace printed successfully
+- Failure-case testing completed successfully
+
+### Reflection
+
+1. The trace explains the reasoning process.
+2. Tool docstrings guide tool selection.
+3. Agents need explicit failure handling.
