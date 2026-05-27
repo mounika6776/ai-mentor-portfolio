@@ -1,10 +1,17 @@
 # AI Mentor Bootcamp — Mounika Jalem
-## Day 1 — Setup complete
+## Day 1A — Setup complete
 
 - ✅ Google AI Studio API key provisioned
 - ✅ Groq API key provisioned
 - ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
+## Day 1B — Setup complete
+
+- ✅ Google AI Studio API key provisioned
+- ✅ Groq API key provisioned
+- ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
+
+![Gemini first call](gemini_first_call.png)
 
 
 Local time: 12.54s
