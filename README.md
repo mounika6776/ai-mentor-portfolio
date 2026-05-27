@@ -12,7 +12,18 @@
 - ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 
 ![Gemini first call](gemini_first_call.png)
+## Day 2 Lab 2B — Errors handled
 
+1. Markdown fence wrapping
+   Retry prompt forces raw JSON output.
+
+2. Missing phone number
+   Optional[str] = None allows validation.
+
+3. Empty input
+   Empty strings are caught before Gemini API call.
+
+## Sample resumes processed: 3 / 3 successful
 
 Local time: 12.54s
 [POSITIVE 1.00] I really enjoyed working on the team and shipped 3 features.
