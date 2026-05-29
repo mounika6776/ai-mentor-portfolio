@@ -98,3 +98,40 @@ Researcher → Writer → Final Markdown Brief
 2. expected_output acts as the contract between agents.
 3. Verbose mode helps debug multi-agent workflows.
 
+# 🚀 Multi-Agent Placement Prep Assistant using CrewAI & Gemini
+
+An AI-powered **Multi-Agent System** built with **CrewAI** and **Google Gemini** that helps students generate structured placement preparation guides automatically.
+
+---
+
+## 📌 Project Overview
+
+This project demonstrates how multiple AI agents can collaborate to complete a real-world task using CrewAI.
+
+The system contains:
+
+- 🔍 **Research Agent** → Collects placement preparation insights
+- ✍️ **Writer Agent** → Converts research into a structured markdown guide
+
+The agents work sequentially to generate a complete placement preparation brief for students.
+
+---
+
+# 🛠️ Tech Stack
+
+- Python
+- CrewAI
+- LiteLLM
+- Google Gemini API
+- Jupyter Notebook
+
+---
+
+# 📂 Project Structure
+
+```bash
+📁 MultiAgent-Placement-Prep/
+│
+├── Day10_MultiAgent_.ipynb
+├── README.md
+└── requirements.txt
